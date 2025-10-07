@@ -1,0 +1,1 @@
+ m a t p l o t l i b = = 3 . 1 0 . 6   n u m p y = = 2 . 3 . 3   p a n d a s = = 2 . 3 . 3   p l o t l y = = 6 . 3 . 1   s c i p y = = 1 . 1 6 . 2   s e a b o r n = = 0 . 1 3 . 2   s t a t s m o d e l s = = 0 . 1 4 . 5   
